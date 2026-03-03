@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning Rust and Flutter (Dart)
-- 📫 How to reach me: tomisnhamilton@gmail.com; I'll have a personal site up soon!
+- 📫 How to reach me: tomis@tnhamilton.com
